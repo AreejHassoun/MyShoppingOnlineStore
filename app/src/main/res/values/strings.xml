@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyShoppingOnlinStore</string>
+
+    <string name="ar_lang">عربي</string>
+    <string name="en_lang">English</string>
+
+    <string name="home">HOME</string>
+    <string name="discover">Discover</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="account">Account</string>
+</resources>
