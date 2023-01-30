@@ -27,7 +27,10 @@ import com.example.myshoppingonlinstore.utils.extensions.getParentActivity
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.textfield.TextInputLayout
 import timber.log.Timber
-
+/**
+ * BindingAdapters
+ *
+ */
 
 //region Binding properties
 /**
@@ -80,6 +83,11 @@ fun bindingAdapterView(
             backgroundId.observe(
                 parentActivity
             ) { value -> value?.let { view.setBackgroundResource(it) } }
+        }
+        marginStart?.let {
+            val layoutParams = view.layoutParams as ViewGroup.MarginLayoutParams
+            layoutParams.marginStart = it.toInt()
+            view.layoutParams = layoutParams
         }
     }
 }
