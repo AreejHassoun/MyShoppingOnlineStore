@@ -1,23 +1,18 @@
 package com.example.myshoppingonlinstore.ui.main
 
-import android.annotation.SuppressLint
-import android.content.BroadcastReceiver
-import androidx.appcompat.app.AppCompatActivity
-import android.content.Context
-import android.content.Intent
-import android.content.IntentFilter
+import android.app.Activity
+import android.content.res.Configuration
+import android.content.res.Resources
 import android.os.Bundle
-import android.view.Gravity
-import android.view.MotionEvent
-import android.widget.EditText
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
-import androidx.navigation.ui.setupWithNavController
 import com.example.myshoppingonlinstore.R
 import com.example.myshoppingonlinstore.databinding.ActivityMainBinding
-import com.example.myshoppingonlinstore.utils.NAV_KEY_OPEN_NAV_DRAWER
-import com.example.myshoppingonlinstore.utils.NAV_KEY_SAVE_BADGET
+import com.example.myshoppingonlinstore.utils.UserUtils
 import com.example.myshoppingonlinstore.utils.extensions.*
+import java.util.*
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var _binding: ActivityMainBinding

@@ -7,16 +7,20 @@
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/background_border_navbar.xml" value="0.1" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_account.xml" value="0.235" />
+        <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_basket.xml" value="0.1" />
+        <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_black_infinty.xml" value="0.1" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_descover.xml" value="0.235" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_home.xml" value="0.12" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_idiscover.xml" value="0.1715" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_infinity.xml" value="0.127" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_menu.xml" value="0.1625" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_settings.xml" value="0.1715" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/drawable/ic_wishlist.xml" value="0.1645" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/font/font_app.xml" value="0.2074074074074074" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/layout/app_bar_main.xml" value="0.11805555555555555" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/layout/fragment_home.xml" value="0.121875" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/layout/nav_footer_main.xml" value="0.26197916666666665" />
         <entry key="..\:/Flutter Apps/MyShoppingOnlinStore/app/src/main/res/layout/nav_header_main.xml" value="0.26197916666666665" />
